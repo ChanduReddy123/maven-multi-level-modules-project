@@ -98,3 +98,5 @@ And to execute only the testOfCopyOfTestApp in the TestApp class the syntax is:
 
 For completists, I wasn't able to get the syntax to execute multiple tests from the test class using the "+" as a between test delimiter to work. When I
 tried it Surefire threw various exceptions.
+
+
